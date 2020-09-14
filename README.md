@@ -7,6 +7,9 @@ Also big thanks to Hak5 and their creation of the USB Rubbery Ducky. It's a game
 
 So I saw the Rubber Ducky and I saw the cheap way of making one and wanted to add my own touch to it and that's how I created the DARKWING DUCK (Such a cool show!). I wanted to expand the versatility of the device and give a pen tester relative remote control of the device. So I decided to add bluetooth functionality to it. This has some great advantages, and disadvantages. 
 
+Skip the boring reading and watch the video:
+https://www.youtube.com/watch?v=oh7TcU3XbuQ&
+
 Advantages
 
 1) You can run multiple scripts with a single device (Seytonic solved this problem with a dip switch). 
